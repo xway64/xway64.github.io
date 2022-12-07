@@ -1,3 +1,3 @@
 ## Hello world
 it`s my supersite
-[wiki](xway64.github.io/wiki/home)
+[wiki](https://github.com/xway64/xway64.github.io/wiki)
